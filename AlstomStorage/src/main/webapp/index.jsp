@@ -9,6 +9,7 @@
 				<td>产品编号</td>
 				<td>产品名称</td>
 				<td>BOM编号</td>
+				<td>世界本是安静的</td>
 			</tr>
 			<tr>
 				<td><h2><a href="http://www.baidu.com">百度</a></h2></td>
